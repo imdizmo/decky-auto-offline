@@ -1,0 +1,11 @@
+{
+  "name": "Auto Offline",
+  "author": "dizmo",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["friends", "status"],
+    "description": "Switches your Steam friends status (online, away, invisible, DND, offline) on a daily schedule.",
+    "image": "https://opengraph.githubassets.com/1/imdizmo/decky-auto-offline"
+  }
+}
